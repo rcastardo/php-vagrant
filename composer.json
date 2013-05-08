@@ -1,0 +1,16 @@
+{
+    "name": "tonicospinelli/php-vagrant",
+    "description": "This is a project template which enables you to get PHP projects up and running on a Vagrant VM really quickly.",
+    "version": "1.0BETA",
+    "require": {
+        "php": ">=5.3.3",
+        "h4cc/phpqatools": "dev-master",
+        "doctrine/orm": "2.*",
+        "symfony/yaml": "2.*"
+    },
+    "config": {
+        "bin-dir": "project/bin",
+        "process-timeout": 4000
+    },
+    "minimum-stability": "dev"
+}

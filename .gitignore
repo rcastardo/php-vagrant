@@ -1,0 +1,17 @@
+.idea/
+.DS_Store
+nbproject
+composer.phar
+composer.lock
+project/data/cache
+project/data/logs
+project/vendor
+!project/bin/.gitignore
+!project/data/cache/.gitignore
+!project/data/logs/.gitignore
+!project/vendor/.gitignore
+vendor
+composer.phar
+composer.lock
+vagrant/.vagrant
+vagrant/Personalization
