@@ -10,8 +10,5 @@ project/vendor
 !project/data/cache/.gitignore
 !project/data/logs/.gitignore
 !project/vendor/.gitignore
-vendor
-composer.phar
-composer.lock
 vagrant/.vagrant
 vagrant/Personalization

@@ -9,7 +9,8 @@
         "symfony/yaml": "2.*"
     },
     "config": {
-        "bin-dir": "project/bin",
+        "vendor-dir": "project/vendor/",
+        "bin-dir": "project/vendor/bin",
         "process-timeout": 4000
     },
     "minimum-stability": "dev"
